@@ -1,5 +1,5 @@
 # Diesel Demo Tutorial
 
-This is repo is my effort in learning how to use diesel, a rust package.
+This repo holds all the code I've written while learning how to use diesel, a Rust package.
 
-I followed the tutorial listed here: https://diesel.rs/guides/getting-started
+You can find the tutorial here: https://diesel.rs/guides/getting-started
